@@ -1,6 +1,8 @@
-AI Chatbot built using the OpenAI API. I followed along using this Brad Traversy video.
+#ChatGPT Chatbot
 
-https://www.youtube.com/watch?v=1YU83Lw58eo&ab_channel=TraversyMedia
+###This is a ChatGPT chatbot written in Node.js that runs in the terminal
+
+
 
 
  
